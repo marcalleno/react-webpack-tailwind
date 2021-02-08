@@ -1,7 +1,7 @@
 import { Component } from 'react'
 
 import Logo from './assets/altafino.svg'
-import './app.styles.scss'
+import './app.styles.css'
 
 class App extends Component {
   render() {
